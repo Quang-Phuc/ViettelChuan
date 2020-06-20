@@ -1,0 +1,12 @@
+
+`squid:S1192"FDefine a constant instead of duplicating this literal "error" 3 times.(î®Åéúÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "redirect:" 5 times.(úÃÎÿ
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ú­Ç†
+Wsquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(µÁ¹
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ
+Vsquid:S2441$":Make "User" serializable or don't store it in the session.(›æÙûÿÿÿÿ
+Wsquid:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(ºßÿø
+dsquid:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÓĞ¹Äÿÿÿÿÿ
+Vsquid:S4684D"@Replace this persistent entity with a simple POJO or DTO object.(ìËšQ
+asquid:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•
+dsquid:S4488X"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïçêÜùÿÿÿÿ
